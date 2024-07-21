@@ -37,7 +37,7 @@
   <h2>My GitHub Stats</h2>
   <p>These are my GitHub stats, feel free to check them out!</p>
   <a href="https://github.com/edielsoncosta">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeivisonJordao&bg_color=30,290800,000000&title_color=fff&text_color=fff" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edielsoncosta&bg_color=30,290800,000000&title_color=fff&text_color=fff" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edielsoncosta&hide=jupyter%20notebook&bg_color=30,290800,000000&title_color=fff&text_color=fff&layout=compact&langs_count=6" />
   </a>
 </div>
