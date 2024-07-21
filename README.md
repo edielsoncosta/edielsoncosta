@@ -1,58 +1,43 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<div align="center">
+  <h2>Hiii, welcome to my GitHub ✋</h2>
 </div>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Edielson! A passionate Scientist Computer student from Brazil.
+<div align="center">
+  <h2>About me</h2>
+  <p> My name is Edielson costa, I am a undergraduate student in science computer <p>
+  <p> I am focused on studying back-end development.</p>
+</div>
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Back-End.
-</p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 23 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Java, Spring boot, PHP, and Hibernate.
-  - which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
-
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics and gym, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
-
-<!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lastman7677)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edielson_costa12/?next=%2F)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edielsoncosta/)
-
-
-<!-- GithubStats -->
-![edielsoncosta GitHub stats](https://github-readme-stats.vercel.app/api?username=edielsoncosta&show_icons=true&theme=gotham)
-
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-    <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  </div>
+<div align="center">
+  <h2>Skills</h2>
   
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
-  </div>
-  
+  [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+  [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+  [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+  [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+
+
+  [![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+  [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+
+
+  [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
+  [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+</div>
+
+<div align="center">
+  <h2>Contats</h2>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edielsoncosta.c@gmail.com)
+  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edielson_costa12_/)
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edielsoncosta/)
+</div>
+
+<div align="center">
+  <h2>My GitHub Stats</h2>
+  <p>These are my GitHub stats, feel free to check them out!</p>
+  <a href="https://github.com/edielsoncosta">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeivisonJordao&bg_color=30,290800,000000&title_color=fff&text_color=fff" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edielsoncosta&hide=jupyter%20notebook&bg_color=30,290800,000000&title_color=fff&text_color=fff&layout=compact&langs_count=6" />
+  </a>
+</div>
