@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/edielsoncosta">
-   <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=edielsoncosta&theme=dark&show_icons=true"/>
+   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=edielsoncosta&theme=dark&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edielsoncosta&exclude_repo=PythonProjects&hide=scss,Procfile,R,Makefile,jupyter%20notebook&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
   <img align="left" src = "https://github-profile-trophy.vercel.app/?username=edielsoncosta&margin-w=10&no-bg=true&no-frame=true&title=Commit,Stars,Repositories,PR,Followers&theme=juicyfresh" />
 </div>
