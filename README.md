@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/edielsoncosta/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> 
 </div>
 
-<img src="https://media.giphy.com/media/NTFD2nIyFU1EfUutt0/giphy.gif" width="40px" height="40px"> GitHub Stats
+<!-- <img src="https://media.giphy.com/media/NTFD2nIyFU1EfUutt0/giphy.gif" width="40px" height="40px"> GitHub Stats !-->
 
 <div align="center">
   <a href="https://github.com/edielsoncosta">
